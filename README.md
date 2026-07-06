@@ -8,9 +8,16 @@
 
 Building scalable backend systems, distributed architectures, and AI-powered applications.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FearSmoker&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<a href="mailto:aryansaxena908@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/aryan_saxena90/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=FearSmoker&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
