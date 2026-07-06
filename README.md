@@ -70,35 +70,14 @@
 <img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm" />
 </p>
 
-### Additional Technologies
-
-```
-Apache Kafka
-Cloudflare
-GitHub Actions
-REST APIs
-Microservices
-Distributed Systems
-CI/CD
-JWT Authentication
-OAuth
-Cloudinary
-Socket.io
-Docker Compose
-Linux
-System Design
-LLMs
-Generative AI
-```
-
 ### Core Technologies
 
 ```text
 Backend Development • Distributed Systems • Microservices • REST APIs
-System Design • Event-Driven Architecture • Apache Kafka
+System Design • Event-Driven Architecture • Apache Kafka • JWT Authentication
 Docker • Kubernetes • Redis • CI/CD • GitHub Actions
 Cloud Computing • Authentication & Authorization
-Database Design • Generative AI • LLM Applications
+Database Design • Generative AI • LLM Applications • Linux • Socket.io • Cloudinary • AWS • OAuth
 ```
 
 ---
