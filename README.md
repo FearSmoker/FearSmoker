@@ -1,21 +1,17 @@
-<div align="center">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Aryan+Saxena;Backend+Engineer;Distributed+Systems+Enthusiast;AI+Applications+Developer;Open+Source+Contributor" />
+</p>
 
-# Hi 👋, I'm Aryan Saxena
+<h2 align="center">Backend Engineer • Distributed Systems • AI Applications</h2>
 
-### Backend Engineer • Distributed Systems • AI Applications
+<p align="center">
+🎓 4th Year Mathematics & Computing @ MITS Gwalior
+</p>
 
-🎓 **4th Year Mathematics & Computing @ MITS Gwalior**
-
-Building scalable backend systems, distributed architectures, and AI-powered applications.
-
-[Instagram](https://www.instagram.com/aryan_saxena90/) •
-[Email](mailto:aryansaxena908@gmail.com)
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=FearSmoker&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</div>
+<p align="center">
+<a href="https://www.instagram.com/aryan_saxena90/">Instagram</a> •
+<a href="mailto:aryansaxena908@gmail.com">Email</a>
+</p>
 
 ---
 
@@ -35,7 +31,7 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,go,python,java,js,ts,sql,bash" />
+<img src="https://skillicons.dev/icons?i=cpp,c,go,python,java,js,ts,sql" />
 </p>
 
 ### Frontend
@@ -47,7 +43,7 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
 </p>
 
 ### Databases
@@ -59,7 +55,7 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 ### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,jenkins,cloudflare" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,jenkins" />
 </p>
 
 ### AI / ML
@@ -71,8 +67,29 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,yarn" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm" />
 </p>
+
+### Additional Technologies
+
+```
+Apache Kafka
+Cloudflare
+GitHub Actions
+REST APIs
+Microservices
+Distributed Systems
+CI/CD
+JWT Authentication
+OAuth
+Cloudinary
+Socket.io
+Docker Compose
+Linux
+System Design
+LLMs
+Generative AI
+```
 
 ### Core Technologies
 
@@ -168,12 +185,13 @@ A complete community management platform built for GFG Campus Body to streamline
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FearSmoker&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FearSmoker&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FearSmoker&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FearSmoker&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FearSmoker&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=FearSmoker&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
