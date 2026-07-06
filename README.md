@@ -185,12 +185,6 @@ A complete community management platform built for GFG Campus Body to streamline
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FearSmoker&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FearSmoker&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=FearSmoker&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -220,16 +214,6 @@ A complete community management platform built for GFG Campus Body to streamline
 ---
 
 # 📫 Contact
-
-<p align="center">
-  <a href="mailto:aryansaxena908@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/aryan_saxena90/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
 
 - 📧 **Email:** aryansaxena908@gmail.com
 - 📱 **Mobile:** +91 9098113736
