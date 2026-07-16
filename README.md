@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://www.instagram.com/aryan_saxena90">Instagram</a> •
-<a href="mailto:aryansaxena908@gmail.com">Email</a>
+<a href="mailto:aryansaxena908@gmail.com">Email</a> •
 <a href="https://www.linkedin.com/in/aryan-saxena-019692407">LinkedIn</a>
 </p>
 
