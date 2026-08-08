@@ -5,7 +5,7 @@
 <h2 align="center">Backend Engineer • Distributed Systems • AI Applications</h2>
 
 <p align="center">
-🎓 4th Year Mathematics & Computing @ MITS Gwalior
+ 4th Year Mathematics & Computing @ MITS Gwalior
 </p>
 
 <p align="center">
@@ -16,18 +16,18 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-- 💻 Former **Software Engineering Intern (AI)** @ **Ethara AI**
-- 🚀 **Tech Lead** @ **GFG Campus Body, MITS Gwalior**
-- ⚡ Passionate about **Backend Engineering**, **Distributed Systems**, and **Cloud Infrastructure**
-- 🤖 Interested in **Generative AI**, **Microservices**, **System Design**, and **Developer Platforms**
-- 🌱 Continuously exploring scalable architectures and modern backend technologies
-- 💬 Ask me about **Node.js, Golang, Python, Kafka, Docker, Kubernetes, Redis, MongoDB, React, AI & LLMs**
+-  Former **Software Engineering Intern (AI)** @ **Ethara AI**
+-  **Tech Lead** @ **GFG Campus Body, MITS Gwalior**
+-  Passionate about **Backend Engineering**, **Distributed Systems**, and **Cloud Infrastructure**
+-  Interested in **Generative AI**, **Microservices**, **System Design**, and **Developer Platforms**
+-  Continuously exploring scalable architectures and modern backend technologies
+-  Ask me about **Node.js, Golang, Python, Kafka, Docker, Kubernetes, Redis, MongoDB, React, AI & LLMs**
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -83,86 +83,86 @@ Database Design • Generative AI • LLM Applications • Linux • Socket.io �
 
 ---
 
-# ⭐ Featured Projects
+#  Featured Projects
 
-## 🎬 StreamSphere — Distributed OTT Streaming Platform
+##  StreamSphere — Distributed OTT Streaming Platform
 
 A production-ready OTT streaming platform engineered with a distributed backend architecture for secure, scalable, and low-latency video delivery. Built using modern backend engineering principles, caching strategies, and containerized deployment workflows.
 
 ### ✨ Features
 
-- 🎥 Adaptive HLS Video Streaming
-- 🔐 JWT Authentication & Role-Based Access Control
-- ⚡ Redis-powered caching layer for high-speed content retrieval
-- 📡 Real-time media notifications using Socket.io
-- 📦 Optimized MongoDB Aggregation Pipelines
-- 🐳 Dockerized microservices
-- 🚀 GitHub Actions based CI/CD
-- 📊 High-performance REST API architecture
-- ☁️ Cloud-ready deployment pipeline
+-  Adaptive HLS Video Streaming
+-  JWT Authentication & Role-Based Access Control
+-  Redis-powered caching layer for high-speed content retrieval
+-  Real-time media notifications using Socket.io
+-  Optimized MongoDB Aggregation Pipelines
+-  Dockerized microservices
+-  GitHub Actions based CI/CD
+-  High-performance REST API architecture
+-  Cloud-ready deployment pipeline
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 `React.js` • `Node.js` • `Express.js` • `MongoDB` • `Redis` • `Socket.io` • `JWT` • `Docker` • `GitHub Actions` • `Cloudinary` • `REST APIs`
 
 ---
 
-## 🛒 DCart — Scalable E-Commerce Platform
+##  DCart — Scalable E-Commerce Platform
 
 A cloud-ready full-stack e-commerce application designed around scalable backend architecture, optimized database design, and efficient state management. Built to handle concurrent traffic while maintaining responsive user experiences.
 
-### ✨ Features
+###  Features
 
-- 🛍️ Secure User Authentication
-- ❤️ Wishlist & Shopping Cart
-- 🔍 Product Search, Filters & Pagination
-- 📦 Inventory & Order Management
-- ⚡ High-performance REST APIs
-- 📊 Optimized MongoDB Indexing
-- 🔄 Redux State Management
-- ☁️ Cloudinary Image Storage
-- 🚀 Production-ready Backend Architecture
+-  Secure User Authentication
+-  Wishlist & Shopping Cart
+-  Product Search, Filters & Pagination
+-  Inventory & Order Management
+-  High-performance REST APIs
+-  Optimized MongoDB Indexing
+-  Redux State Management
+-  Cloudinary Image Storage
+-  Production-ready Backend Architecture
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 `React.js` • `Redux Toolkit` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `Cloudinary` • `Multer` • `REST APIs`
 
 ---
 
-## 🌐 GFG Campus Body Platform
+##  GFG Campus Body Platform
 
 A complete community management platform built for GFG Campus Body to streamline event registrations, announcements, authentication, and member engagement through scalable backend services.
 
-### ✨ Features
+###  Features
 
-- 🔐 JWT + OAuth Authentication
-- 👨‍💼 Multi-role Authorization
-- 📅 Event Registration Workflow
-- 📷 Cloudinary Media Uploads
-- 📨 Automated Email Notifications
-- 🌍 Cloudflare CDN Integration
-- 🚀 Zero-Downtime CI/CD Pipeline
-- 📊 MongoDB Performance Optimization
-- 📱 Responsive User Experience
+-  JWT + OAuth Authentication
+-  Multi-role Authorization
+-  Event Registration Workflow
+-  Cloudinary Media Uploads
+-  Automated Email Notifications
+-  Cloudflare CDN Integration
+-  Zero-Downtime CI/CD Pipeline
+-  MongoDB Performance Optimization
+-  Responsive User Experience
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 `React.js` • `Node.js` • `Express.js` • `MongoDB` • `Cloudinary` • `Cloudflare` • `JWT` • `OAuth` • `Linux` • `GitHub Actions`
 
 ---
 
-# 🏆 Achievements
+#  Achievements
 
-- 🚀 Former **Software Engineering Intern** @ **Ethara AI**
-- 👨‍💻 **Tech Lead** @ **GFG Campus Body, MITS Gwalior**
-- 🥈 **2nd Place** — Code Coalescence Hackathon
-- 🇮🇳 **State Finalist** — Smart India Hackathon (SIH)
-- 💻 Solved **500+ DSA Problems**
-- 🎓 **CGPA: 9.0/10**
+-  Former **Software Engineering Intern** @ **Ethara AI**
+-  **Tech Lead** @ **GFG Campus Body, MITS Gwalior**
+-  **2nd Place** — Code Coalescence Hackathon
+-  **State Finalist** — Smart India Hackathon (SIH)
+-  Solved **500+ DSA Problems**
+-  **CGPA: 9.0/10**
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=FearSmoker&theme=tokyonight&hide_border=true" />
@@ -170,7 +170,7 @@ A complete community management platform built for GFG Campus Body to streamline
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FearSmoker&theme=tokyo-night&hide_border=true"/>
@@ -178,7 +178,7 @@ A complete community management platform built for GFG Campus Body to streamline
 
 ---
 
-# 📚 Currently Exploring
+#  Currently Exploring
 
 - Distributed Systems
 - Microservices Architecture
@@ -193,17 +193,17 @@ A complete community management platform built for GFG Campus Body to streamline
 
 ---
 
-# 📫 Contact
+#  Contact
 
-- 📧 **Email:** aryansaxena908@gmail.com
-- 📱 **Mobile:** +91 9098113736
+-  **Email:** aryansaxena908@gmail.com
+-  **Mobile:** +91 9098113736
 
 ---
 
 <div align="center">
 
-### 💡 *"Building scalable systems, one commit at a time."*
+###  *"Building scalable systems, one commit at a time."*
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories.
+ Thanks for visiting my profile! Feel free to explore my repositories.
 
 </div>
