@@ -125,7 +125,7 @@ A cloud-ready full-stack e-commerce application designed around scalable backend
 
 ###  Tech Stack
 
-`React.js` • `Redux Toolkit` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `Cloudinary` • `Multer` • `REST APIs`
+`Next.js` • `Redux Toolkit` • `Firestore` • `MongoDB` • `JWT` • `Cloudinary` • `Multer` • `REST APIs`
 
 ---
 
