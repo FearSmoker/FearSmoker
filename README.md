@@ -89,7 +89,7 @@ Database Design • Generative AI • LLM Applications • Linux • Socket.io �
 
 A production-ready OTT streaming platform engineered with a distributed backend architecture for secure, scalable, and low-latency video delivery. Built using modern backend engineering principles, caching strategies, and containerized deployment workflows.
 
-### ✨ Features
+###  Features
 
 -  Adaptive HLS Video Streaming
 -  JWT Authentication & Role-Based Access Control
