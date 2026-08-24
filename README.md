@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Aryan+Saxena;Full+stack+Developer;Distributed+%26+Scalable+Systems+Enthusiast;AI%2FML+Applications+Developer;Open+Source+Contributor;Competitive+Programmer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Aryan+Saxena;Full+Stack+Developer;Distributed+%26+Scalable+Systems+Enthusiast;AI%2FML+Applications+Developer;Open+Source+Contributor;Competitive+Programmer" />
 </p>
 
 <h2 align="center">Full-Stack Developer • AI/ML • Backend Systems • Generative AI • Scalable Systems</h2>
