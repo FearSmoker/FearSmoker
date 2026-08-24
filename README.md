@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Aryan+Saxena;Backend+Engineer;Distributed+Systems+Enthusiast;AI+Applications+Developer;Open+Source+Contributor" />
 </p>
 
-<h2 align="center">Backend Engineer • Distributed Systems • AI Applications</h2>
+<h2 align="center">Full-Stack Developer • AI/ML • Backend Systems • Generative AI • Scalable Systems</h2>
 
 <p align="center">
  4th Year Mathematics & Computing @ MITS Gwalior
